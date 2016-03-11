@@ -1,0 +1,38 @@
+Partlist exported from C:/Users/Kenny Hora/Documents/eagle/32u4 Simple Breakout/32u4 Simple Breakout.sch at 3/10/2016 8:39 PM
+
+Part   Value                           Device                          Package              Description                                   PROD_ID    SF_ID     VALUE           
+C1     18pf                            CAP0603-CAP                     0603-CAP             Capacitor                                                                          
+C2     18pf                            CAP0603-CAP                     0603-CAP             Capacitor                                                                          
+C3     1uf                             CAP0603-CAP                     0603-CAP             Capacitor                                                                          
+C4     1uf                             CAP0603-CAP                     0603-CAP             Capacitor                                                                          
+C5     0.1uf                           CAP0603-CAP                     0603-CAP             Capacitor                                                                          
+C6     0.1uf                           CAP0603-CAP                     0603-CAP             Capacitor                                                                          
+C7     1uf                             CAP0603-CAP                     0603-CAP             Capacitor                                                                          
+C8     10 uf                           CAP_POLPTH2                     CPOL-RADIAL-10UF-25V Capacitor Polarized                                                                
+C9     0.1uf                           CAP0603-CAP                     0603-CAP             Capacitor                                                                          
+D1     GREEN                           LED-GREEN1206                   LED-1206             Various green LEDs                            DIO-00862            GREEN           
+D2     RED                             LED-RED1206                     LED-1206             Assorted Red LEDs                             DIO-09912            RED             
+F1     PTCPTH                          PTCPTH                          PTC                  Resettable Fuse PTC                                                                
+F2     PTCPTH                          PTCPTH                          PTC                  Resettable Fuse PTC                                                                
+FRAME1 FRAME-LETTER                    FRAME-LETTER                    CREATIVE_COMMONS     Schematic Frame                                                                    
+JP1    FEMALE 2x3                      M03X2FEMALE                     2X3                  2x3 .1" header.                               CONN-11566           FEMALE 2x3      
+JP2                                    M06FEMALE_LOCK                  1X06_FEMALE_LOCK.010 Header 6                                                                           
+JP3                                    M06FEMALE_LOCK                  1X06_FEMALE_LOCK.010 Header 6                                                                           
+JP4    USB-MICROB                      USB-MICROB                      USB-MICROB           USB Connectors                                CONN-09505                           
+JP5    5.5x2.1mm Barrel                POWER_JACKSMD                   POWER_JACK_SMD       Power Jack                                    CONN-08106 PRT-12748 5.5x2.1mm Barrel
+JP6                                    M08FEMALE_LOCK                  1X08_FEMALE_LOCK     Header 8                                                                           
+JP7                                    M08FEMALE_LOCK                  1X08_FEMALE_LOCK     Header 8                                                                           
+JP8                                    M01PTH                          1X01                 Header 1                                                                           
+LOGO1  OSHW-LOGOM                      OSHW-LOGOM                      OSHW-LOGO-M          Open Source Hardware Logo                                                          
+R1     10k                             RESISTOR0603-RES                0603-RES             Resistor                                                                           
+R2     240                             RESISTOR0603-RES                0603-RES             Resistor                                                                           
+R3     720                             RESISTOR0603-RES                0603-RES             Resistor                                                                           
+R4     22                              RESISTOR0603-RES                0603-RES             Resistor                                                                           
+R5     22                              RESISTOR0603-RES                0603-RES             Resistor                                                                           
+R6     100                             RESISTOR1206                    1206                 Resistor                                                                           
+R7     180                             RESISTOR1206                    1206                 Resistor                                                                           
+S1     SWITCH-MOMENTARY-2SMD-REDUNDANT SWITCH-MOMENTARY-2SMD-REDUNDANT TACTILE-SWITCH-SMD   Various NO switches- pushbuttons, reed, etc   SWCH-08247                           
+S2     SPDT Switch                     SWITCH-SPDT-SMD-A               SWITCH-SPST-SMD-A    SPDT Switch                                                                        
+U$1    ATMEGA32/16U4                   ATMEGA32/16U4                   TQFP_44_0.8MM        ATmega32u4 and 16u4                                                                
+U1                                     V_REG_LM1117SOT223              SOT223               Voltage Regulator LM1117                      VREG-08170                           
+Y1     16Mhz                           CRYSTAL5X3                      CRYSTAL-SMD-5X3      Various standard crystals. Proven footprints. XTAL-08218                           
