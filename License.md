@@ -1,8 +1,14 @@
-#Software
+##ComputerAided License Information
+
+ComputerAided uses different licenses for its files - one for hardware and one for code.
+
+###Software
+
+**ComputeAided code, firmware, and software is released under the MIT License(http://opensource.org/licenses/MIT).**
 
 The MIT License (MIT)
 
-Copyright (c) 2016 SparkFlame
+Copyright (c) 2016 ComputerAided
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -22,7 +28,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-#Hardware
+###Hardware
+
+**ComputerAided hardware is released under [Creative Commons Share-alike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).**
 
 Note: This is a human-readable summary of (and not a substitute for) the [license](http://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
